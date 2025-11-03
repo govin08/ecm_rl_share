@@ -1,0 +1,7 @@
+*.zip
+*.rar
+*.pdf
+__pycache__/
+*.pyc
+*.csv
+*.ecl
